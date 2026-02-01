@@ -1,0 +1,19 @@
+##TRY THESE INPUT FOR NON-DIABETIC RESULT:
+Pregnancies = 1
+Glucose = 85
+BloodPressure = 70
+SkinThickness = 20
+Insulin = 80
+BMI = 22.5
+DiabetesPedigreeFunction = 0.25
+Age = 30
+
+##TRY THESE INPUT FOR DIABETIC RESULT
+Pregnancies = 5
+Glucose = 155
+BloodPressure = 85
+SkinThickness = 30
+Insulin = 150
+BMI = 33.0
+DiabetesPedigreeFunction = 1.2
+Age = 45
